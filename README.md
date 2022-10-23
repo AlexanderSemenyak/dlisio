@@ -1,3 +1,5 @@
+origin: https://github.com/equinor/dlisio
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/equinor/dlisio/master/dlisio-logo.svg" alt="dlisio logo" width="400"/>
 </p>
